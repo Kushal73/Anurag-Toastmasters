@@ -137,4 +137,10 @@ body > footer{
         border-bottom: none !important;
     }
     img {display:block;margin:0 auto;}
+    iframe{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 25px;
+    overflow: hidden;
+    }
 }
